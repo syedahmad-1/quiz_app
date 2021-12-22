@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_app/views/dashboard.dart';
 import 'package:quiz_app/views/signin.dart';
+import 'package:quiz_app/views/signup.dart';
 import 'package:quiz_app/views/welcome_screen.dart';
 
 void main() {
